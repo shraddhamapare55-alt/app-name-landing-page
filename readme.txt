@@ -1,20 +1,12 @@
 AppName Landing Page
+This is my responsive landing page project made using HTML and Tailwind CSS.
 
-Overview
-Responsive SaaS landing page using Tailwind CSS CDN.
+Features:
+- Sticky navbar
+- Responsive hero section
+- Responsive feature cards
+- Footer section
+- Mobile and desktop support
 
-Features
-- Sticky Navbar
-- Hero Section
-- Features Grid
-- Responsive Footer
-
-Responsive Breakpoints Used
-- sm
-- md
-- lg
-- xl
-
-How to Run
-Open index.html in browser.
-
+How to run:
+Open index.html in browser
